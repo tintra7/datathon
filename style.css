@@ -1,0 +1,28 @@
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+/* Style for the sidebar */
+.sidebar .sidebar-content {
+    background-color: #f5faff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+/* Style for the submit button */
+button[type='predict'] {
+    background-color: #ffd15b;
+    color: #ffbdbd;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(189, 174, 214);}
+
+div[role="listbox"] ul {
+    background-color: white;
+}
+
